@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tittle": "My awesome project 1",
+    "description": "This is my project 1"
+  },
+  {
+    "id": 2,
+    "tittle": "My awesome project 2",
+    "description": "This is my project 2"
+  },
+  {
+    "id": 3,
+    "tittle": "My awesome project 3",
+    "description": "This is my project 3"
+  }
+]
