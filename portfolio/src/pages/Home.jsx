@@ -1,7 +1,14 @@
 function Home() {
   return (
     <>
-      <h1>This is Home page</h1>
+      <div className="jumbotron jumbotron-fluid">
+        <div className="container">
+          <h1 className="display-4">Hello word</h1>
+          <p className="lead">
+            This page is created using the React
+          </p>
+        </div>
+      </div>
     </>
   );
 }
